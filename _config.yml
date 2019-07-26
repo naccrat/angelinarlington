@@ -1,3 +1,16 @@
+# exclude:
+#   - "/vendor/"
+#   - "Gemfile"
+#   - "Gemfile.lock"
+#   - "README.md"
+#   - "LICENSE.md"
+#   - "*.gemspec"
+
+# keep_files:
+#   - "CNAME"
+#   - ".git"
+#   - ".gitignore"
+
 # Site settings
 title: Angel in Arlington
 subtitle: ""
