@@ -1,7 +1,6 @@
 ---
 page_title: About Me
 page_description: ''
-published: false
 
 ---
 ![](/uploads/Allicia-Johnson-Portrait-18-Edit-Web-Size-1400px-1.png)Allicia Johnson is an author and speaker with a profound message of hope. From childhood, her entire life was affected by her father’s murder as he was serving in the U. S. Navy. Deep-rooted grief and curiosity caused her to seek the truth behind the conspiracies aboard the USS Richard S Edwards and her father’s death. Suddenly she felt an intense connection with her father on almost a daily basis. As she learned to act upon specific messages, miracles, answers, healing, and forgiveness flooded her life like a tidal wave. She not only found peace for her own life but also for over a dozen of her father’s Navy friends who had still been suffering the ramifications of the shooting. Feeling the same push from her father to reveal their story with those who have lost loved ones and desire continued connection, Allicia shares her personal understanding of PTSD, terrors, feelings of inadequacy and a sense of abandonment. She is passionate about helping others, particularly Military widows and orphans, to embrace grief and heal from the truth, instead of running from it. And the deeper message of hope is that our lost loved ones surround us daily, cheering us on as we find meaning in life. 
