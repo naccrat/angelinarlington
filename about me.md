@@ -1,0 +1,11 @@
+---
+page_title: About Me
+page_description: ''
+published: false
+
+---
+![](/uploads/Allicia-Johnson-Portrait-18-Edit-Web-Size-1400px-1.png)Allicia Johnson is an author and speaker with a profound message of hope. From childhood, her entire life was affected by her father’s murder as he was serving in the U. S. Navy. Deep-rooted grief and curiosity caused her to seek the truth behind the conspiracies aboard the USS Richard S Edwards and her father’s death. Suddenly she felt an intense connection with her father on almost a daily basis. As she learned to act upon specific messages, miracles, answers, healing, and forgiveness flooded her life like a tidal wave. She not only found peace for her own life but also for over a dozen of her father’s Navy friends who had still been suffering the ramifications of the shooting. Feeling the same push from her father to reveal their story with those who have lost loved ones and desire continued connection, Allicia shares her personal understanding of PTSD, terrors, feelings of inadequacy and a sense of abandonment. She is passionate about helping others, particularly Military widows and orphans, to embrace grief and heal from the truth, instead of running from it. And the deeper message of hope is that our lost loved ones surround us daily, cheering us on as we find meaning in life. 
+
+Allicia is proud of the veterans in her family, including four grandparents, her father, and sister-in-law. Her understanding heart, quirky sense of humor, and unconquerable determination have opened doors and created life-changing connections that continue to be blessings. A nationally sought-after speaker, Allicia works in marketing and leadership development. She is a health, fitness, and chocolate enthusiast who finds beauty in almost every situation, and sees miracles on a regular basis. She is a devout Christian who feels a deep sense of family connection and strives to help others feel hope and confidence in their own lives. She has recently joined the TAPS movement (Tragedy Assistance Program for Survivors) for military families to share the process of deep and effective healing.
+
+Allicia is available in the United States and internationally as a keynote speaker, panel member, and presenter.
