@@ -1,11 +1,10 @@
 ---
 layout: post
 title: 5 Ways to Create Memories with Your Loved One Who Died
-subtitle: ''
-date: 
+subtitle: ""
 author: Allicia Johnson
-
 ---
+
 <p dir="ltr"><a href="[https://www.taps.org/articles/2017/creatingmemories](https://www.taps.org/articles/2017/creatingmemories "https://www.taps.org/articles/2017/creatingmemories")">Originally posted on the TAPS Website on 2/13/2016.</a></p>
 
 One of the most painful parts of grief is facing a string of tomorrows without your loved one. Whether you lost the love of your life last month or were in utero when your dad was killed, your older brother lost his battle with depression or post-traumatic stress three years ago or your mother slipped quietly away while in hospice care, the past is all you have with them. Or is it?
