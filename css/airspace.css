@@ -19,7 +19,7 @@
 	Common Css
 --*/
 body {
-  font-family: "EB Garamond", Serif;
+  font-family: "Open Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 h1,
@@ -28,18 +28,18 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Roboto", sans-serif;
+  font-family: "EB Garamond", Serif;
 }
 h2 {
   font-size: 30px;
   font-weight: 400;
 }
 h3 {
-  font-size: 28px;
+  font-size: 26px;
   font-weight: 300;
 }
 p {
-  font-size: 15px;
+  font-size: 16px;
   line-height: 28px;
 }
 ul {
@@ -57,13 +57,13 @@ a:active {
   margin-bottom: 70px;
 }
 .section-title h2 {
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   font-size: 28px;
   font-weight: 600;
 }
 .section-title p {
-  font-family: "Volkhov", serif;
-  font-style: italic;
+  /* font-family: "Volkhov", serif;
+  font-style: italic; */
   color: #666;
 }
 /*--
@@ -127,13 +127,13 @@ font header .navbar-default .navbar-nav li a:hover {
 #slider .block h1 {
   /* font-family: "Roboto", sans-serif; */
   font-weight: 400;
-  font-size: 45px;
+  font-size: 48px;
   line-height: 60px;
   letter-spacing: 6px;
   /* padding-bottom: 45px; */
 }
 #slider .block p {
-  font-size: 23px;
+  font-size: 24px;
   line-height: 40px;
   /* font-family: "Roboto", sans-serif; */
   font-weight: 400;
