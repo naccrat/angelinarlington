@@ -5,9 +5,10 @@
  * The original style.css is now called airspace.css
  * 
  */
-
-@import url(//fonts.googleapis.com/css?family=Open+Sans:400, 300, 600);
-@import url(//fonts.googleapis.com/css?family=EB+Garamond:400, 500, 600, 700);
+/* prettier-ignore */
+@import url(//fonts.googleapis.com/css?family=Open+Sans:400,300,600);
+/* prettier-ignore */
+@import url(//fonts.googleapis.com/css?family=EB+Garamond:400,500,600,700);
 @import url(//fonts.googleapis.com/css?family=Volkhov:400italic);
 @import url(//fonts.googleapis.com/css?family=Alex+Brush&display=swap);
 /* var text-decoration */
