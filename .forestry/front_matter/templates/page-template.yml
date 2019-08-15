@@ -16,5 +16,3 @@ fields:
     schema:
       format: markdown
   label: Page Description
-pages:
-- about me.md
