@@ -202,6 +202,13 @@ font header .navbar-default .navbar-nav li a:hover {
   border-image: radial-gradient(rgb(30, 26, 45), rgb(255, 255, 255)) 1;
 }
 /*--
+	Social Icons Start
+--*/
+#social .social-icons {
+  text-align: center;
+  margin: 10px auto 40px;
+}
+/*--
 	call-to-action Start
 --*/
 #call-to-action {
