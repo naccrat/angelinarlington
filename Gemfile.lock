@@ -67,6 +67,3 @@ DEPENDENCIES
   bundler (~> 2.0.1)
   jekyll (~> 3.8.5)
   rake (~> 12.3.1)
-
-BUNDLED WITH
-   2.0.2
